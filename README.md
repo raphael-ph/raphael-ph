@@ -1,6 +1,6 @@
 <div align="center">
 <br />
-<h1>Raphael Carvalho</h1>
+<h1>Raphael Silva e Silva</h1>
 <h3>Software Engineer, AI/ML Engineer & M.Sc. Researcher</h3>
 <p>
 <em>Building production-grade AI agents and researching mathematical reasoning in LLMs.</em>
