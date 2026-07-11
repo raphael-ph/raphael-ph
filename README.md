@@ -16,14 +16,6 @@ Mathematical Reasoning for LLMs: Developing methods to fine-tune Gemma models us
 
 Formal Verification as Reward: Utilizing Lean (theorem prover) as a robust reward function to guide the model's reasoning trace, ensuring logical consistency rather than just final-answer correctness.
 
-## Technical Philosophy
-
-Languages: Python (Advanced), Lean (Research).
-
-Stack: PyTorch, Google Cloud (Vertex AI), AWS, Docker.
-
-Libraries: Pydantic, Polars, Apache Beam, MLFlow.
-
 <div align="center">
 <br />
 <a href="mailto:raphasilvaesilva15@gmail.com">Email</a> •
